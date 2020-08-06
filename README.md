@@ -1218,17 +1218,17 @@ parse(path = filepath, fix_time_stamps= True, get_meta = False, fill_missing_val
 
 * Winterzeit: Im letzten Sonntag in Oktober wird die Uhr um 3:00 auf 2:00 zurückgestellt.
 * Sommerzeit: Im letzten Sonntag in März wird der Uhr um 2:00 auf 3:00 vorgestellt.
-<img src="webinar/pics/zeitumstellung.jpg" width="500px" style="margin-left:0px;"/>
+<img src="assets/pics/zeitumstellung.jpg" width="500px" style="margin-left:0px;"/>
 
 #### 3. 3. 1. Beginn- und Ende-Konvention
 
 Beispiel1: Stündliche Zeitreihen
 
-<tr><td><img width="250px" src="webinar/pics/dls/h_begin.png"/></td><td><img width="250px" src="webinar/pics/dls/h_end.png"/></td></tr>
+<tr><td><img width="250px" src="assets/pics/dls/h_begin.png"/></td><td><img width="250px" src="assets/pics/dls/h_end.png"/></td></tr>
 
 Beispiel2: Viertelstündliche Zeitreihen
 
-<tr><td><img width="250px" src="webinar/pics/dls/q_begin.png"/></td><td><img width="250px" src="webinar/pics/dls/q_end.png"/></td></tr>
+<tr><td><img width="250px" src="assets/pics/dls/q_begin.png"/></td><td><img width="250px" src="assets/pics/dls/q_end.png"/></td></tr>
 
 #### 3. 3. 1. Beispiel für Korrektur der Zeitumstellung
 
