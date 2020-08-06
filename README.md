@@ -1165,7 +1165,7 @@ df.plot(x='datetime')
 
 
 
-![png](output_50_1.png)
+![png](assets/pics/output_50_1.png)
 
 
 Jetzt füllen wir die Werte mit vier unterschiedliche methoden:
@@ -1178,7 +1178,7 @@ parse(path = filepath, fix_time_stamps= True, get_meta = False, fill_missing_val
 ```
 
 
-![png](output_52_0.png)
+![png](assets/pics/output_52_0.png)
 
 
 Mit dem vorherigen Wert
@@ -1189,7 +1189,7 @@ parse(path = filepath, fix_time_stamps= True, get_meta = False, fill_missing_val
 ```
 
 
-![png](output_54_0.png)
+![png](assets/pics/output_54_0.png)
 
 
 Mit dem nächten Wert
@@ -1200,7 +1200,7 @@ parse(path = filepath, fix_time_stamps= True, get_meta = False, fill_missing_val
 ```
 
 
-![png](output_56_0.png)
+![png](assets/pics/output_56_0.png)
 
 
 Interpolieren
@@ -1211,7 +1211,7 @@ parse(path = filepath, fix_time_stamps= True, get_meta = False, fill_missing_val
 ```
 
 
-![png](output_58_0.png)
+![png](assets/pics/output_58_0.png)
 
 
 ### 3. 3. Sommer-/ Winterzeitumstellung überprüfen und ggf. korrigieren
